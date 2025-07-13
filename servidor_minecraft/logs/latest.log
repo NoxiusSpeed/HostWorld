@@ -1,0 +1,126 @@
+[01:55:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:55:31] [ServerMain/INFO]: No existing world data, creating new world
+[01:55:32] [ServerMain/INFO]: Loaded 1290 recipes
+[01:55:32] [ServerMain/INFO]: Loaded 1399 advancements
+[01:55:33] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:55:33] [Server thread/INFO]: Loading properties
+[01:55:33] [Server thread/INFO]: Default game type: SURVIVAL
+[01:55:33] [Server thread/INFO]: Generating keypair
+[01:55:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:55:33] [Server thread/INFO]: Using epoll channel type
+[01:55:34] [Server thread/INFO]: Preparing level "CausaLandRebirth"
+[01:55:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:55:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:51] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:51] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:52] [User Authenticator #1/INFO]: UUID of player InAscendancy is 3a9fa534-a37d-4171-acd3-3158128699f4
+[01:55:52] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:53] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:54] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:54] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:56] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:56] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:56] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:56] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:57] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:57] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:58] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:58] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:55:59] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[01:55:59] [Worker-Main-1/INFO]: Preparing spawn area: 40%
+[01:56:00] [Server thread/INFO]: Time elapsed: 11860 ms
+[01:56:00] [Server thread/INFO]: Done (26.221s)! For help, type "help"
+[01:56:02] [Server thread/INFO]: InAscendancy[/127.165.245.206:33745] logged in with entity id 36 at (29.5, 88.0, -68.5)
+[01:56:02] [Server thread/INFO]: InAscendancy joined the game
+[01:56:06] [User Authenticator #2/INFO]: UUID of player NoxiusSpeed is c33f36f8-c596-4097-96a4-c51f56537a0d
+[01:56:06] [Server thread/INFO]: NoxiusSpeed[/127.235.250.63:51627] logged in with entity id 75 at (28.5, 78.0, -72.5)
+[01:56:07] [Server thread/INFO]: NoxiusSpeed joined the game
+[01:56:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=27, y=87, z=-71}
+[01:56:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=29, y=86, z=-72}
+[01:56:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=29, y=86, z=-71}
+[01:56:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=21, y=67, z=-59}
+[01:58:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[01:58:51] [Server thread/INFO]: InAscendancy has made the advancement [Stone Age]
+[01:59:07] [Server thread/INFO]: NoxiusSpeed has made the advancement [Stone Age]
+[01:59:22] [Server thread/INFO]: InAscendancy has made the advancement [Getting an Upgrade]
+[01:59:23] [Server thread/INFO]: NoxiusSpeed has made the advancement [Getting an Upgrade]
+[02:03:08] [Server thread/INFO]: InAscendancy has made the advancement [Acquire Hardware]
+[02:06:35] [Server thread/INFO]: InAscendancy has made the advancement [Sweet Dreams]
+[02:07:09] [Server thread/INFO]: NoxiusSpeed has made the advancement [Sweet Dreams]
+[02:09:17] [Server thread/INFO]: NoxiusSpeed fell from a high place
+[02:09:35] [Server thread/INFO]: <InAscendancy> 165 200
+[02:11:17] [Server thread/INFO]: NoxiusSpeed fell from a high place
+[02:11:22] [Server thread/INFO]: InAscendancy has made the advancement [Monster Hunter]
+[02:14:24] [Server thread/INFO]: NoxiusSpeed has made the advancement [Acquire Hardware]
+[02:17:23] [Server thread/INFO]: NoxiusSpeed has made the advancement [Monster Hunter]
+[02:20:41] [Server thread/INFO]: InAscendancy was shot by Skeleton
+[02:22:42] [Server thread/INFO]: NoxiusSpeed has made the advancement [Not Today, Thank You]
+[02:27:45] [Server thread/INFO]: InAscendancy has made the advancement [Minecraft: Trial(s) Edition]
+[02:27:58] [Server thread/INFO]: NoxiusSpeed has made the advancement [Minecraft: Trial(s) Edition]
+[02:30:44] [Server thread/INFO]: InAscendancy has made the advancement [Suit Up]
+[02:33:00] [Server thread/INFO]: NoxiusSpeed has made the advancement [Suit Up]
+[02:33:27] [Server thread/INFO]: NoxiusSpeed has made the advancement [Isn't It Iron Pick]
+[02:34:21] [Server thread/INFO]: NoxiusSpeed has made the advancement [Diamonds!]
+[02:40:51] [Server thread/INFO]: InAscendancy lost connection: Timed out
+[02:40:51] [Server thread/INFO]: InAscendancy left the game
+[02:40:51] [Server thread/WARN]: handleDisconnection() called twice
+[02:41:15] [User Authenticator #3/INFO]: UUID of player InAscendancy is 3a9fa534-a37d-4171-acd3-3158128699f4
+[02:41:16] [Server thread/INFO]: InAscendancy[/127.165.245.206:42193] logged in with entity id 13202 at (210.66950092593905, -12.0, 121.11942238310928)
+[02:41:16] [Server thread/INFO]: InAscendancy joined the game
+[02:43:46] [Server thread/INFO]: InAscendancy lost connection: Timed out
+[02:43:46] [Server thread/INFO]: InAscendancy left the game
+[02:43:51] [Server thread/INFO]: InAscendancy (/127.165.245.206:38409) lost connection: Disconnected
+[02:43:51] [Server thread/INFO]: <NoxiusSpeed> ASD
+[02:46:14] [User Authenticator #4/INFO]: UUID of player InAscendancy is 3a9fa534-a37d-4171-acd3-3158128699f4
+[02:46:15] [Server thread/INFO]: InAscendancy[/127.165.245.206:56371] logged in with entity id 14213 at (215.0804878946202, -3.2336320060424804, 167.40181837020216)
+[02:46:15] [Server thread/INFO]: InAscendancy joined the game
+[02:46:42] [Server thread/INFO]: NoxiusSpeed was shot by Stray
+[02:47:06] [Server thread/INFO]: InAscendancy has made the advancement [Not Today, Thank You]
+[02:47:21] [Server thread/INFO]: NoxiusSpeed was slain by Cave Spider
+[02:47:53] [Server thread/INFO]: NoxiusSpeed was shot by Stray
+[02:48:45] [Server thread/INFO]: NoxiusSpeed was slain by Stray
+[02:50:00] [Server thread/INFO]: NoxiusSpeed was shot by Stray
+[02:50:10] [Server thread/INFO]: InAscendancy has made the advancement [Isn't It Iron Pick]
+[02:56:45] [Server thread/INFO]: NoxiusSpeed was shot by Stray
+[02:57:34] [Server thread/INFO]: NoxiusSpeed was shot by Stray
+[02:59:42] [Server thread/INFO]: InAscendancy was shot by Stray
+[03:00:15] [Server thread/INFO]: InAscendancy was shot by Stray
+[03:01:11] [Server thread/INFO]: NoxiusSpeed has made the advancement [Who Needs Rockets?]
+[03:01:27] [Server thread/INFO]: NoxiusSpeed has made the advancement [Under Lock and Key]
+[03:02:00] [Server thread/INFO]: InAscendancy has made the advancement [Under Lock and Key]
+[03:09:38] [Server thread/INFO]: NoxiusSpeed was slain by Zombie
+[03:11:08] [Server thread/INFO]: NoxiusSpeed was slain by Zombie
+[03:12:40] [Server thread/INFO]: InAscendancy has made the advancement [Cover Me with Diamonds]
+[03:23:02] [Server thread/INFO]: <InAscendancy> Denada :)
+[03:23:23] [Server thread/INFO]: Showing new title for 2 players
+[03:23:23] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[03:23:23] [Server thread/INFO]: <--[HERE]
+[03:23:25] [Server thread/INFO]: Showing new title for 2 players
+[03:23:57] [Server thread/INFO]: Changed title display times for 2 players
+[03:24:04] [Server thread/INFO]: Showing new title for 2 players
+[03:24:14] [Server thread/INFO]: Showing new subtitle for 2 players
+[03:25:08] [Server thread/INFO]: [NoxiusSpeed: Showing new actionbar title for 2 players]
+[03:25:27] [Server thread/INFO]: <InAscendancy> :)
+[03:25:29] [Server thread/INFO]: InAscendancy lost connection: Disconnected
+[03:25:29] [Server thread/INFO]: InAscendancy left the game
+[03:25:32] [User Authenticator #5/INFO]: UUID of player InAscendancy is 3a9fa534-a37d-4171-acd3-3158128699f4
+[03:25:33] [Server thread/INFO]: InAscendancy[/127.165.245.206:50405] logged in with entity id 22943 at (215.72399378147807, -2.0, 163.21105375545798)
+[03:25:33] [Server thread/INFO]: InAscendancy joined the game
+[03:26:03] [Server thread/INFO]: Stopping the server
+[03:26:04] [Server thread/INFO]: Stopping server
+[03:26:04] [Server thread/INFO]: Saving players
+[03:26:04] [Server thread/INFO]: Saving worlds
+[03:26:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CausaLandRebirth]'/minecraft:overworld
+[03:26:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CausaLandRebirth]'/minecraft:the_end
+[03:26:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CausaLandRebirth]'/minecraft:the_nether
+[03:26:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (CausaLandRebirth): All chunks are saved
+[03:26:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:26:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:26:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
