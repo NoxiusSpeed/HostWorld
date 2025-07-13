@@ -1,61 +1,41 @@
-[17:03:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:03:35] [ServerMain/INFO]: Loaded 1290 recipes
-[17:03:36] [ServerMain/INFO]: Loaded 1399 advancements
-[17:03:37] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[17:03:37] [Server thread/INFO]: Loading properties
-[17:03:37] [Server thread/INFO]: Default game type: SURVIVAL
-[17:03:37] [Server thread/INFO]: Generating keypair
-[17:03:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:03:37] [Server thread/INFO]: Using epoll channel type
-[17:03:37] [Server thread/INFO]: Preparing level "CausaLandRebirth"
-[17:03:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:03:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:03:44] [Worker-Main-1/INFO]: Preparing spawn area: 30%
-[17:03:44] [Server thread/INFO]: Time elapsed: 1241 ms
-[17:03:44] [Server thread/INFO]: Done (6.984s)! For help, type "help"
-[17:03:57] [User Authenticator #1/INFO]: UUID of player InAscendancy is 3a9fa534-a37d-4171-acd3-3158128699f4
-[17:03:59] [Server thread/INFO]: InAscendancy[/127.165.245.206:50963] logged in with entity id 12 at (215.72399378147807, -2.0, 163.21105375545798)
-[17:03:59] [Server thread/INFO]: InAscendancy joined the game
-[17:05:57] [User Authenticator #2/INFO]: UUID of player NoxiusSpeed is c33f36f8-c596-4097-96a4-c51f56537a0d
-[17:06:00] [Server thread/INFO]: NoxiusSpeed[/127.235.250.63:37231] logged in with entity id 774 at (208.5870831879944, -2.0, 164.03327066296862)
-[17:06:00] [Server thread/INFO]: NoxiusSpeed joined the game
-[17:06:25] [Server thread/INFO]: NoxiusSpeed lost connection: Disconnected
-[17:06:25] [Server thread/INFO]: NoxiusSpeed left the game
-[17:07:12] [User Authenticator #3/INFO]: UUID of player NoxiusSpeed is c33f36f8-c596-4097-96a4-c51f56537a0d
-[17:07:13] [Server thread/INFO]: NoxiusSpeed[/127.235.250.63:60443] logged in with entity id 1051 at (209.9110527578238, -2.0, 164.20772900295106)
-[17:07:13] [Server thread/INFO]: NoxiusSpeed joined the game
-[17:09:32] [Server thread/INFO]: <InAscendancy> zzzz
-[17:09:34] [Server thread/INFO]: <InAscendancy> mimimim
-[17:09:36] [Server thread/INFO]: <NoxiusSpeed> ZzZ
-[17:11:22] [Server thread/INFO]: NoxiusSpeed has made the advancement [Best Friends Forever]
-[17:15:55] [Server thread/WARN]: NoxiusSpeed moved too quickly! 3.5376433587816223,0.5870907195829886,-9.423063641423255
-[17:20:30] [Server thread/INFO]: <InAscendancy> pipipi
-[17:21:04] [Server thread/WARN]: NoxiusSpeed moved too quickly! -1.417013685691444,-2.758602271281049,9.61229648867311
-[17:21:57] [Server thread/WARN]: NoxiusSpeed moved too quickly! -7.3776997569686245,1.0013359791121417,6.851284656436292
-[17:22:59] [Server thread/INFO]: <NoxiusSpeed> -182 --- 1200
-[17:23:52] [Server thread/INFO]: NoxiusSpeed was slain by Iron Golem
-[17:26:15] [Server thread/WARN]: NoxiusSpeed moved too quickly! -10.24260938391716,1.4199999868869781,1.0558144464174575
-[17:27:14] [Server thread/WARN]: NoxiusSpeed moved too quickly! -9.662659864354907,0.7531999805212024,2.581240969867281
-[17:28:40] [Server thread/INFO]: <NoxiusSpeed> ASD
-[17:31:47] [Server thread/INFO]: InAscendancy has made the advancement [Diamonds!]
-[17:38:55] [Server thread/INFO]: [NoxiusSpeed: Created new objective [Vida]]
-[17:39:34] [Server thread/INFO]: [NoxiusSpeed: Set display slot list to show objective Vida]
-[17:40:41] [Server thread/INFO]: InAscendancy has made the advancement [Take Aim]
-[17:42:52] [Server thread/INFO]: InAscendancy was blown up by Creeper
-[17:43:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=43, y=68, z=-53}
-[17:43:46] [Server thread/INFO]: <InAscendancy> -316
-[17:44:09] [Server thread/INFO]: <InAscendancy> -316 1031
-[17:44:24] [Server thread/INFO]: <InAscendancy> 45
-[17:44:40] [Server thread/INFO]: <InAscendancy> -316 45 1013
-[17:44:59] [Server thread/INFO]: <InAscendancy> -316 45 1301
-[17:45:17] [Server thread/INFO]: InAscendancy fell off some vines
-[17:45:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=26, y=69, z=-51}
-[17:45:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=27, y=68, z=-50}
-[17:45:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=27, y=68, z=-50}
-[17:45:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=28, y=68, z=-49}
-[17:46:44] [Server thread/INFO]: NoxiusSpeed has made the advancement [Cover Me with Diamonds]
-[17:55:09] [Server thread/INFO]: NoxiusSpeed has made the advancement [Hot Stuff]
-[18:01:21] [Server thread/INFO]: Villager cmk['Villager'/7196, l='ServerLevel[CausaLandRebirth]', x=-252.53, y=70.00, z=1268.12] died, message: 'Villager was slain by NoxiusSpeed'
-[18:02:36] [Server thread/INFO]: InAscendancy has made the advancement [Hot Stuff]
-[18:03:52] [Server thread/INFO]: Villager cmk['Nitwit'/7175, l='ServerLevel[CausaLandRebirth]', x=-159.61, y=63.46, z=1213.09] died, message: 'Nitwit tried to swim in lava'
+[21:38:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:38:34] [ServerMain/INFO]: Loaded 1290 recipes
+[21:38:34] [ServerMain/INFO]: Loaded 1399 advancements
+[21:38:35] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[21:38:35] [Server thread/INFO]: Loading properties
+[21:38:35] [Server thread/INFO]: Default game type: SURVIVAL
+[21:38:35] [Server thread/INFO]: Generating keypair
+[21:38:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:38:35] [Server thread/INFO]: Using epoll channel type
+[21:38:35] [Server thread/INFO]: Preparing level "CausaLandRebirth"
+[21:38:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:38:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:38:43] [Server thread/INFO]: Time elapsed: 884 ms
+[21:38:43] [Server thread/INFO]: Done (7.407s)! For help, type "help"
+[21:39:01] [User Authenticator #1/INFO]: UUID of player InAscendancy is 3a9fa534-a37d-4171-acd3-3158128699f4
+[21:39:03] [Server thread/INFO]: InAscendancy[/127.165.245.206:53779] logged in with entity id 15 at (-159.30000001192093, 63.0, 1214.6586496664695)
+[21:39:03] [Server thread/INFO]: InAscendancy joined the game
+[21:39:43] [User Authenticator #2/INFO]: UUID of player NoxiusSpeed is c33f36f8-c596-4097-96a4-c51f56537a0d
+[21:39:44] [Server thread/INFO]: NoxiusSpeed[/127.159.190.24:37223] logged in with entity id 677 at (-227.5, 69.0, 1264.5)
+[21:39:45] [Server thread/INFO]: NoxiusSpeed joined the game
+[21:44:21] [Server thread/WARN]: NoxiusSpeed moved too quickly! 7.586910774015621,-1.7684762024129839,6.555089562602916
+[21:58:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-224, y=69, z=1310} jd{x=-225, y=68, z=1309}
+[22:08:16] [Server thread/WARN]: NoxiusSpeed moved too quickly! -9.771017116458381,-3.2872629905309907,0.014049821216758573
+[22:09:32] [Server thread/WARN]: Failed to update secure chat state for NoxiusSpeed: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[22:09:34] [Server thread/WARN]: Failed to update secure chat state for NoxiusSpeed: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[22:09:38] [Server thread/WARN]: Failed to update secure chat state for NoxiusSpeed: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[22:09:59] [Server thread/WARN]: Failed to update secure chat state for NoxiusSpeed: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[22:11:10] [Server thread/INFO]: NoxiusSpeed lost connection: Disconnected
+[22:11:10] [Server thread/INFO]: NoxiusSpeed left the game
+[22:11:14] [User Authenticator #3/INFO]: UUID of player NoxiusSpeed is c33f36f8-c596-4097-96a4-c51f56537a0d
+[22:11:15] [Server thread/INFO]: NoxiusSpeed[/127.159.190.24:49705] logged in with entity id 12043 at (-232.5, 69.0, 1266.5)
+[22:11:15] [Server thread/INFO]: NoxiusSpeed joined the game
+[22:11:17] [Server thread/INFO]: InAscendancy lost connection: Disconnected
+[22:11:17] [Server thread/INFO]: InAscendancy left the game
+[22:11:17] [Server thread/INFO]: <NoxiusSpeed> asd
+[22:11:19] [User Authenticator #4/INFO]: UUID of player InAscendancy is 3a9fa534-a37d-4171-acd3-3158128699f4
+[22:11:20] [Server thread/INFO]: InAscendancy[/127.165.245.206:55267] logged in with entity id 12059 at (-230.19502708214557, 69.0, 1266.7869160886764)
+[22:11:20] [Server thread/INFO]: InAscendancy joined the game
+[22:17:16] [Server thread/INFO]: <NoxiusSpeed> sakamoto days
+[22:21:31] [Server thread/INFO]: InAscendancy fell from a high place
