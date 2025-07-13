@@ -55,3 +55,7 @@
 [17:45:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=27, y=68, z=-50}
 [17:45:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=28, y=68, z=-49}
 [17:46:44] [Server thread/INFO]: NoxiusSpeed has made the advancement [Cover Me with Diamonds]
+[17:55:09] [Server thread/INFO]: NoxiusSpeed has made the advancement [Hot Stuff]
+[18:01:21] [Server thread/INFO]: Villager cmk['Villager'/7196, l='ServerLevel[CausaLandRebirth]', x=-252.53, y=70.00, z=1268.12] died, message: 'Villager was slain by NoxiusSpeed'
+[18:02:36] [Server thread/INFO]: InAscendancy has made the advancement [Hot Stuff]
+[18:03:52] [Server thread/INFO]: Villager cmk['Nitwit'/7175, l='ServerLevel[CausaLandRebirth]', x=-159.61, y=63.46, z=1213.09] died, message: 'Nitwit tried to swim in lava'
