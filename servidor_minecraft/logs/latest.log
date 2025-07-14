@@ -26,3 +26,25 @@
 [16:45:21] [Server thread/INFO]: <NoxiusSpeed> tellraw @a ["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"]
 [16:45:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [16:45:27] [Server thread/INFO]: <--[HERE]
+[16:56:40] [Server thread/INFO]: NoxiusSpeed lost connection: Timed out
+[16:56:40] [Server thread/INFO]: NoxiusSpeed left the game
+[16:56:41] [Server thread/WARN]: handleDisconnection() called twice
+[16:57:34] [User Authenticator #2/INFO]: UUID of player NoxiusSpeed is c33f36f8-c596-4097-96a4-c51f56537a0d
+[16:57:35] [Server thread/INFO]: NoxiusSpeed[/127.159.190.24:36387] logged in with entity id 2403 at (185.69999998807907, 23.5, 172.07499998807907)
+[16:57:35] [Server thread/INFO]: NoxiusSpeed joined the game
+[16:58:55] [Server thread/WARN]: NoxiusSpeed moved too quickly! -0.012015872638748704,0.20000004768371582,10.492117589851304
+[17:10:23] [Server thread/INFO]: InAscendancy (/127.165.245.206:53797) lost connection: Disconnected
+[17:12:10] [User Authenticator #3/INFO]: UUID of player InAscendancy is 3a9fa534-a37d-4171-acd3-3158128699f4
+[17:12:12] [Server thread/INFO]: InAscendancy[/127.165.245.206:46617] logged in with entity id 7987 at (198.30000001192093, -11.0, 166.30000001192093)
+[17:12:12] [Server thread/INFO]: InAscendancy joined the game
+[17:12:18] [Server thread/INFO]: <NoxiusSpeed> hOÑA
+[17:12:22] [Server thread/INFO]: <NoxiusSpeed> Hola*
+[17:12:23] [Server thread/INFO]: <InAscendancy> Hola causa
+[17:12:29] [Server thread/INFO]: <InAscendancy> recien llegue
+[17:12:32] [Server thread/INFO]: <InAscendancy> pero tengo que ir a comer
+[17:12:33] [Server thread/INFO]: <NoxiusSpeed> ok
+[17:12:39] [Server thread/INFO]: <InAscendancy> pero voy a cojer unos minutos
+[17:13:03] [Server thread/INFO]: <NoxiusSpeed> ya hice el portal a cas
+[17:13:07] [Server thread/INFO]: <NoxiusSpeed> casa
+[17:13:11] [Server thread/INFO]: <InAscendancy> ok
+[17:15:22] [Server thread/INFO]: Villager cmk['Nitwit'/8076, l='ServerLevel[CausaLandRebirth]', x=151.65, y=63.00, z=189.95] died, message: 'Nitwit was slain by Zombie'
