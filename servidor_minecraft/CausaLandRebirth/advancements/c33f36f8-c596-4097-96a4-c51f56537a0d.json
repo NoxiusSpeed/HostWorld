@@ -835,6 +835,7 @@
     "criteria": {
       "minecraft:cave_spider": "2025-07-13 02:40:51 +0000",
       "minecraft:skeleton": "2025-07-13 02:22:34 +0000",
+      "minecraft:piglin": "2025-07-14 01:54:03 +0000",
       "minecraft:breeze": "2025-07-13 02:54:01 +0000",
       "minecraft:stray": "2025-07-13 02:49:42 +0000",
       "minecraft:enderman": "2025-07-13 23:19:33 +0000",
@@ -2568,6 +2569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-14 01:09:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-07-14 01:35:11 +0000"
@@ -2577,12 +2584,6 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-07-14 01:35:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-07-14 01:09:02 +0000"
     },
     "done": true
   },

@@ -1,57 +1,28 @@
-[00:01:51] [Server thread/INFO]: InAscendancy has made the advancement [What a Deal!]
-[00:03:04] [Server thread/INFO]: Villager cmk['Fletcher'/618, l='ServerLevel[CausaLandRebirth]', x=-224.56, y=69.19, z=1301.51] died, message: 'Fletcher was slain by Zombie'
-[00:03:33] [Server thread/INFO]: NoxiusSpeed was slain by Zombie Villager
-[00:03:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-226, y=69, z=1300}
-[00:26:15] [Server thread/INFO]: <NoxiusSpeed> ASD
-[00:26:31] [Server thread/INFO]: InAscendancy lost connection: Disconnected
-[00:26:31] [Server thread/INFO]: InAscendancy left the game
-[00:30:44] [User Authenticator #6/INFO]: UUID of player InAscendancy is 3a9fa534-a37d-4171-acd3-3158128699f4
-[00:30:46] [Server thread/INFO]: InAscendancy[/127.165.245.206:36809] logged in with entity id 58097 at (-236.3791195294369, 70.17675927506424, 1279.1454720028958)
-[00:30:46] [Server thread/INFO]: InAscendancy joined the game
-[00:33:34] [Server thread/INFO]: InAscendancy has made the advancement [Ice Bucket Challenge]
-[00:38:38] [Server thread/INFO]: <NoxiusSpeed> 2x Spawner: 193 -- 173
-[00:41:30] [Server thread/WARN]: InAscendancy moved wrongly!
-[00:49:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-163, y=70, z=1094} jd{x=-162, y=68, z=1092}
-[00:52:11] [Server thread/WARN]: NoxiusSpeed moved too quickly! 9.074916070248577,-3.164773281826072,-2.8612652481479586
-[00:52:18] [Server thread/INFO]: <InAscendancy> asd
-[00:52:40] [Server thread/WARN]: NoxiusSpeed moved too quickly! 3.0988703860357987,-3.698465276337217,-8.808234553843533
-[00:53:23] [Server thread/WARN]: NoxiusSpeed moved too quickly! 5.27536778025663,-5.020679542666709,-7.13734421485313
-[00:57:07] [Server thread/INFO]: NoxiusSpeed (/127.159.190.24:54441) lost connection: Disconnected
-[00:57:13] [Server thread/INFO]: NoxiusSpeed lost connection: Timed out
-[00:57:13] [Server thread/INFO]: NoxiusSpeed left the game
-[00:57:13] [Server thread/WARN]: handleDisconnection() called twice
-[00:59:15] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:59:15] [Server thread/INFO]: Say Hola Causa<--[HERE]
-[00:59:31] [User Authenticator #7/INFO]: UUID of player NoxiusSpeed is c33f36f8-c596-4097-96a4-c51f56537a0d
-[00:59:33] [Server thread/INFO]: NoxiusSpeed[/127.159.190.24:47103] logged in with entity id 67025 at (195.68606568606532, 24.0, 167.01957542527592)
-[00:59:33] [Server thread/INFO]: NoxiusSpeed joined the game
-[00:59:48] [Server thread/INFO]: [Not Secure] [Server] Como estan Causas?
-[01:00:00] [Server thread/INFO]: <InAscendancy> bien :)
-[01:00:17] [Server thread/INFO]: [NoxiusSpeed] Que bueno me alegro
-[01:00:25] [Server thread/INFO]: <InAscendancy> :)
-[01:05:48] [Server thread/INFO]: NoxiusSpeed lost connection: Timed out
-[01:05:48] [Server thread/INFO]: NoxiusSpeed left the game
-[01:05:48] [Server thread/WARN]: handleDisconnection() called twice
-[01:06:00] [User Authenticator #8/INFO]: UUID of player NoxiusSpeed is c33f36f8-c596-4097-96a4-c51f56537a0d
-[01:06:02] [Server thread/INFO]: NoxiusSpeed[/127.159.190.24:50279] logged in with entity id 68537 at (187.6947156001132, 26.0, 178.42419070227896)
-[01:06:02] [Server thread/INFO]: NoxiusSpeed joined the game
-[01:06:13] [Server thread/INFO]: <NoxiusSpeed> adsd
-[01:11:41] [Server thread/INFO]: <InAscendancy> espera
-[01:20:14] [Server thread/INFO]: <NoxiusSpeed> baje
-[01:20:39] [Server thread/INFO]: <InAscendancy> afk
-[01:20:42] [Server thread/INFO]: <NoxiusSpeed> OK
-[01:20:43] [Server thread/INFO]: InAscendancy lost connection: Disconnected
-[01:20:43] [Server thread/INFO]: InAscendancy left the game
-[01:21:44] [User Authenticator #9/INFO]: UUID of player InAscendancy is 3a9fa534-a37d-4171-acd3-3158128699f4
-[01:21:45] [Server thread/INFO]: InAscendancy[/127.165.245.206:48451] logged in with entity id 71421 at (198.69999998807907, -11.0, 166.30000001192093)
-[01:21:45] [Server thread/INFO]: InAscendancy joined the game
-[01:22:09] [Server thread/INFO]: <InAscendancy> causa
-[01:22:12] [Server thread/INFO]: <InAscendancy> chau
-[01:22:16] [Server thread/INFO]: InAscendancy lost connection: Disconnected
-[01:22:16] [Server thread/INFO]: InAscendancy left the game
-[01:36:56] [Server thread/INFO]: NoxiusSpeed was shot by Skeleton
-[01:37:18] [Server thread/INFO]: [NoxiusSpeed: Teleported NoxiusSpeed to 0.500000, 50.000000, 0.500000]
-[01:37:22] [Server thread/INFO]: [NoxiusSpeed: Teleported NoxiusSpeed to 0.500000, 70.000000, 0.500000]
-[01:38:22] [Server thread/WARN]: NoxiusSpeed moved too quickly! 4.946445947340507,-0.8751356021945895,8.859813704161127
-[01:48:53] [Server thread/INFO]: <NoxiusSpeed> 28
-[01:49:27] [Server thread/INFO]: <NoxiusSpeed> -28 110 158
+[16:36:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:36:06] [ServerMain/INFO]: Loaded 1290 recipes
+[16:36:06] [ServerMain/INFO]: Loaded 1399 advancements
+[16:36:07] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[16:36:07] [Server thread/INFO]: Loading properties
+[16:36:07] [Server thread/INFO]: Default game type: SURVIVAL
+[16:36:07] [Server thread/INFO]: Generating keypair
+[16:36:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:36:07] [Server thread/INFO]: Using epoll channel type
+[16:36:07] [Server thread/INFO]: Preparing level "CausaLandRebirth"
+[16:36:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:36:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:36:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:36:17] [Server thread/INFO]: Time elapsed: 944 ms
+[16:36:17] [Server thread/INFO]: Done (9.510s)! For help, type "help"
+[16:37:52] [User Authenticator #1/INFO]: UUID of player NoxiusSpeed is c33f36f8-c596-4097-96a4-c51f56537a0d
+[16:37:54] [Server thread/INFO]: NoxiusSpeed[/127.159.190.24:40609] logged in with entity id 16 at (185.4269637990973, 23.0, 169.5812526390337)
+[16:37:54] [Server thread/INFO]: NoxiusSpeed joined the game
+[16:40:58] [Server thread/INFO]: [NoxiusSpeed: Created new objective [Día del servidor]]
+[16:41:05] [Server thread/INFO]: [NoxiusSpeed: Added 0 to [Día del servidor] for Servidor (now 0)]
+[16:43:15] [Server thread/INFO]: [NoxiusSpeed: Created new objective [5CausaLand 2]]
+[16:43:22] [Server thread/INFO]: [NoxiusSpeed: Set [5CausaLand 2] for NoxiusSpeed to 0]
+[16:43:32] [Server thread/INFO]: [NoxiusSpeed: Set display slot list to show objective 5CausaLand 2]
+[16:43:59] [Server thread/INFO]: [NoxiusSpeed: Set [5CausaLand 2] for NoxiusSpeed to 0]
+[16:44:46] [Server thread/INFO]: No player was found
+[16:45:21] [Server thread/INFO]: <NoxiusSpeed> tellraw @a ["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"]
+[16:45:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:45:27] [Server thread/INFO]: <--[HERE]
