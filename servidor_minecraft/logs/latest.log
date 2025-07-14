@@ -10,3 +10,22 @@
 [00:30:46] [Server thread/INFO]: InAscendancy joined the game
 [00:33:34] [Server thread/INFO]: InAscendancy has made the advancement [Ice Bucket Challenge]
 [00:38:38] [Server thread/INFO]: <NoxiusSpeed> 2x Spawner: 193 -- 173
+[00:41:30] [Server thread/WARN]: InAscendancy moved wrongly!
+[00:49:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-163, y=70, z=1094} jd{x=-162, y=68, z=1092}
+[00:52:11] [Server thread/WARN]: NoxiusSpeed moved too quickly! 9.074916070248577,-3.164773281826072,-2.8612652481479586
+[00:52:18] [Server thread/INFO]: <InAscendancy> asd
+[00:52:40] [Server thread/WARN]: NoxiusSpeed moved too quickly! 3.0988703860357987,-3.698465276337217,-8.808234553843533
+[00:53:23] [Server thread/WARN]: NoxiusSpeed moved too quickly! 5.27536778025663,-5.020679542666709,-7.13734421485313
+[00:57:07] [Server thread/INFO]: NoxiusSpeed (/127.159.190.24:54441) lost connection: Disconnected
+[00:57:13] [Server thread/INFO]: NoxiusSpeed lost connection: Timed out
+[00:57:13] [Server thread/INFO]: NoxiusSpeed left the game
+[00:57:13] [Server thread/WARN]: handleDisconnection() called twice
+[00:59:15] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:59:15] [Server thread/INFO]: Say Hola Causa<--[HERE]
+[00:59:31] [User Authenticator #7/INFO]: UUID of player NoxiusSpeed is c33f36f8-c596-4097-96a4-c51f56537a0d
+[00:59:33] [Server thread/INFO]: NoxiusSpeed[/127.159.190.24:47103] logged in with entity id 67025 at (195.68606568606532, 24.0, 167.01957542527592)
+[00:59:33] [Server thread/INFO]: NoxiusSpeed joined the game
+[00:59:48] [Server thread/INFO]: [Not Secure] [Server] Como estan Causas?
+[01:00:00] [Server thread/INFO]: <InAscendancy> bien :)
+[01:00:17] [Server thread/INFO]: [NoxiusSpeed] Que bueno me alegro
+[01:00:25] [Server thread/INFO]: <InAscendancy> :)
