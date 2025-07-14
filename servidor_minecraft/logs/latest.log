@@ -42,3 +42,14 @@
 [01:20:42] [Server thread/INFO]: <NoxiusSpeed> OK
 [01:20:43] [Server thread/INFO]: InAscendancy lost connection: Disconnected
 [01:20:43] [Server thread/INFO]: InAscendancy left the game
+[01:21:44] [User Authenticator #9/INFO]: UUID of player InAscendancy is 3a9fa534-a37d-4171-acd3-3158128699f4
+[01:21:45] [Server thread/INFO]: InAscendancy[/127.165.245.206:48451] logged in with entity id 71421 at (198.69999998807907, -11.0, 166.30000001192093)
+[01:21:45] [Server thread/INFO]: InAscendancy joined the game
+[01:22:09] [Server thread/INFO]: <InAscendancy> causa
+[01:22:12] [Server thread/INFO]: <InAscendancy> chau
+[01:22:16] [Server thread/INFO]: InAscendancy lost connection: Disconnected
+[01:22:16] [Server thread/INFO]: InAscendancy left the game
+[01:36:56] [Server thread/INFO]: NoxiusSpeed was shot by Skeleton
+[01:37:18] [Server thread/INFO]: [NoxiusSpeed: Teleported NoxiusSpeed to 0.500000, 50.000000, 0.500000]
+[01:37:22] [Server thread/INFO]: [NoxiusSpeed: Teleported NoxiusSpeed to 0.500000, 70.000000, 0.500000]
+[01:38:22] [Server thread/WARN]: NoxiusSpeed moved too quickly! 4.946445947340507,-0.8751356021945895,8.859813704161127
