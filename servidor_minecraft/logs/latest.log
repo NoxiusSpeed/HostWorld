@@ -2,3 +2,6 @@
 [00:03:04] [Server thread/INFO]: Villager cmk['Fletcher'/618, l='ServerLevel[CausaLandRebirth]', x=-224.56, y=69.19, z=1301.51] died, message: 'Fletcher was slain by Zombie'
 [00:03:33] [Server thread/INFO]: NoxiusSpeed was slain by Zombie Villager
 [00:03:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-226, y=69, z=1300}
+[00:26:15] [Server thread/INFO]: <NoxiusSpeed> ASD
+[00:26:31] [Server thread/INFO]: InAscendancy lost connection: Disconnected
+[00:26:31] [Server thread/INFO]: InAscendancy left the game
