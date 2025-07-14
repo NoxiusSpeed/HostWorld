@@ -29,3 +29,16 @@
 [01:00:00] [Server thread/INFO]: <InAscendancy> bien :)
 [01:00:17] [Server thread/INFO]: [NoxiusSpeed] Que bueno me alegro
 [01:00:25] [Server thread/INFO]: <InAscendancy> :)
+[01:05:48] [Server thread/INFO]: NoxiusSpeed lost connection: Timed out
+[01:05:48] [Server thread/INFO]: NoxiusSpeed left the game
+[01:05:48] [Server thread/WARN]: handleDisconnection() called twice
+[01:06:00] [User Authenticator #8/INFO]: UUID of player NoxiusSpeed is c33f36f8-c596-4097-96a4-c51f56537a0d
+[01:06:02] [Server thread/INFO]: NoxiusSpeed[/127.159.190.24:50279] logged in with entity id 68537 at (187.6947156001132, 26.0, 178.42419070227896)
+[01:06:02] [Server thread/INFO]: NoxiusSpeed joined the game
+[01:06:13] [Server thread/INFO]: <NoxiusSpeed> adsd
+[01:11:41] [Server thread/INFO]: <InAscendancy> espera
+[01:20:14] [Server thread/INFO]: <NoxiusSpeed> baje
+[01:20:39] [Server thread/INFO]: <InAscendancy> afk
+[01:20:42] [Server thread/INFO]: <NoxiusSpeed> OK
+[01:20:43] [Server thread/INFO]: InAscendancy lost connection: Disconnected
+[01:20:43] [Server thread/INFO]: InAscendancy left the game
