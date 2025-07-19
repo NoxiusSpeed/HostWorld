@@ -1,56 +1,65 @@
-[16:36:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:36:06] [ServerMain/INFO]: Loaded 1290 recipes
-[16:36:06] [ServerMain/INFO]: Loaded 1399 advancements
-[16:36:07] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[16:36:07] [Server thread/INFO]: Loading properties
-[16:36:07] [Server thread/INFO]: Default game type: SURVIVAL
-[16:36:07] [Server thread/INFO]: Generating keypair
-[16:36:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:36:07] [Server thread/INFO]: Using epoll channel type
-[16:36:07] [Server thread/INFO]: Preparing level "CausaLandRebirth"
-[16:36:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:36:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:36:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:36:17] [Server thread/INFO]: Time elapsed: 944 ms
-[16:36:17] [Server thread/INFO]: Done (9.510s)! For help, type "help"
-[16:37:52] [User Authenticator #1/INFO]: UUID of player NoxiusSpeed is c33f36f8-c596-4097-96a4-c51f56537a0d
-[16:37:54] [Server thread/INFO]: NoxiusSpeed[/127.159.190.24:40609] logged in with entity id 16 at (185.4269637990973, 23.0, 169.5812526390337)
-[16:37:54] [Server thread/INFO]: NoxiusSpeed joined the game
-[16:40:58] [Server thread/INFO]: [NoxiusSpeed: Created new objective [Día del servidor]]
-[16:41:05] [Server thread/INFO]: [NoxiusSpeed: Added 0 to [Día del servidor] for Servidor (now 0)]
-[16:43:15] [Server thread/INFO]: [NoxiusSpeed: Created new objective [5CausaLand 2]]
-[16:43:22] [Server thread/INFO]: [NoxiusSpeed: Set [5CausaLand 2] for NoxiusSpeed to 0]
-[16:43:32] [Server thread/INFO]: [NoxiusSpeed: Set display slot list to show objective 5CausaLand 2]
-[16:43:59] [Server thread/INFO]: [NoxiusSpeed: Set [5CausaLand 2] for NoxiusSpeed to 0]
-[16:44:46] [Server thread/INFO]: No player was found
-[16:45:21] [Server thread/INFO]: <NoxiusSpeed> tellraw @a ["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"]
-[16:45:27] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[16:45:27] [Server thread/INFO]: <--[HERE]
-[16:56:40] [Server thread/INFO]: NoxiusSpeed lost connection: Timed out
-[16:56:40] [Server thread/INFO]: NoxiusSpeed left the game
-[16:56:41] [Server thread/WARN]: handleDisconnection() called twice
-[16:57:34] [User Authenticator #2/INFO]: UUID of player NoxiusSpeed is c33f36f8-c596-4097-96a4-c51f56537a0d
-[16:57:35] [Server thread/INFO]: NoxiusSpeed[/127.159.190.24:36387] logged in with entity id 2403 at (185.69999998807907, 23.5, 172.07499998807907)
-[16:57:35] [Server thread/INFO]: NoxiusSpeed joined the game
-[16:58:55] [Server thread/WARN]: NoxiusSpeed moved too quickly! -0.012015872638748704,0.20000004768371582,10.492117589851304
-[17:10:23] [Server thread/INFO]: InAscendancy (/127.165.245.206:53797) lost connection: Disconnected
-[17:12:10] [User Authenticator #3/INFO]: UUID of player InAscendancy is 3a9fa534-a37d-4171-acd3-3158128699f4
-[17:12:12] [Server thread/INFO]: InAscendancy[/127.165.245.206:46617] logged in with entity id 7987 at (198.30000001192093, -11.0, 166.30000001192093)
-[17:12:12] [Server thread/INFO]: InAscendancy joined the game
-[17:12:18] [Server thread/INFO]: <NoxiusSpeed> hOÑA
-[17:12:22] [Server thread/INFO]: <NoxiusSpeed> Hola*
-[17:12:23] [Server thread/INFO]: <InAscendancy> Hola causa
-[17:12:29] [Server thread/INFO]: <InAscendancy> recien llegue
-[17:12:32] [Server thread/INFO]: <InAscendancy> pero tengo que ir a comer
-[17:12:33] [Server thread/INFO]: <NoxiusSpeed> ok
-[17:12:39] [Server thread/INFO]: <InAscendancy> pero voy a cojer unos minutos
-[17:13:03] [Server thread/INFO]: <NoxiusSpeed> ya hice el portal a cas
-[17:13:07] [Server thread/INFO]: <NoxiusSpeed> casa
-[17:13:11] [Server thread/INFO]: <InAscendancy> ok
-[17:15:22] [Server thread/INFO]: Villager cmk['Nitwit'/8076, l='ServerLevel[CausaLandRebirth]', x=151.65, y=63.00, z=189.95] died, message: 'Nitwit was slain by Zombie'
-[17:17:46] [Server thread/INFO]: <NoxiusSpeed> Causa nos vemos
-[17:17:49] [Server thread/INFO]: NoxiusSpeed lost connection: Disconnected
-[17:17:49] [Server thread/INFO]: NoxiusSpeed left the game
-[17:18:47] [Server thread/INFO]: <InAscendancy> :(
-[17:28:01] [Server thread/INFO]: InAscendancy lost connection: Disconnected
-[17:28:01] [Server thread/INFO]: InAscendancy left the game
+[17:34:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:34:25] [ServerMain/INFO]: Loaded 1290 recipes
+[17:34:26] [ServerMain/INFO]: Loaded 1399 advancements
+[17:34:27] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[17:34:27] [Server thread/INFO]: Loading properties
+[17:34:27] [Server thread/INFO]: Default game type: SURVIVAL
+[17:34:27] [Server thread/INFO]: Generating keypair
+[17:34:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:34:27] [Server thread/INFO]: Using epoll channel type
+[17:34:27] [Server thread/INFO]: Preparing level "CausaLandRebirth"
+[17:34:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:34:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:34:34] [Server thread/INFO]: Time elapsed: 890 ms
+[17:34:34] [Server thread/INFO]: Done (7.403s)! For help, type "help"
+[17:34:39] [User Authenticator #1/INFO]: UUID of player InAscendancy is 3a9fa534-a37d-4171-acd3-3158128699f4
+[17:34:41] [Server thread/INFO]: InAscendancy[/127.165.245.206:33997] logged in with entity id 19 at (-227.81828329301018, 68.9375, 1293.100437315466)
+[17:34:41] [Server thread/INFO]: InAscendancy joined the game
+[17:34:47] [Server thread/INFO]: NoxiusSpeed (/127.118.56.241:59407) lost connection: Disconnected
+[17:35:59] [User Authenticator #2/INFO]: UUID of player NoxiusSpeed is c33f36f8-c596-4097-96a4-c51f56537a0d
+[17:36:01] [Server thread/INFO]: NoxiusSpeed[/127.118.56.241:34209] logged in with entity id 731 at (181.30000001192093, 23.0, 172.48836356951742)
+[17:36:01] [Server thread/INFO]: NoxiusSpeed joined the game
+[17:36:15] [Server thread/INFO]: <NoxiusSpeed> Hola Chavalin
+[17:37:15] [Server thread/INFO]: <InAscendancy> hola chaval
+[17:37:23] [Server thread/INFO]: <NoxiusSpeed> esta en base?
+[17:37:25] [Server thread/INFO]: <InAscendancy> SI
+[17:38:28] [Server thread/INFO]: <NoxiusSpeed> porque no tiene skin?
+[17:38:37] [Server thread/INFO]: <InAscendancy> porque tu no tienes skin
+[17:41:19] [Server thread/WARN]: NoxiusSpeed moved too quickly! -7.11833860973411,0.2046003784434376,-7.2725411127487405
+[17:42:09] [Server thread/INFO]: <NoxiusSpeed> creo que voy a tener que mover la granja de aldeanos
+[17:42:19] [Server thread/INFO]: <InAscendancy> pq
+[17:42:49] [Server thread/INFO]: <NoxiusSpeed> creo que esta muy cerca de los otros aldeanos
+[17:43:02] [Server thread/INFO]: <InAscendancy> bueno si, tienes razon
+[17:43:07] [Server thread/INFO]: <NoxiusSpeed> A NO YA FUNCIONA
+[17:43:31] [Server thread/INFO]: <NoxiusSpeed> Ahi esta el primer esclavo
+[17:44:03] [Server thread/INFO]: <NoxiusSpeed> a la 1:55 me tengo que ir te dejare el server abierto
+[17:44:08] [Server thread/INFO]: <InAscendancy> ok
+[17:47:18] [Server thread/INFO]: <InAscendancy> causa
+[17:47:23] [Server thread/INFO]: <NoxiusSpeed> ?
+[17:47:32] [Server thread/INFO]: <InAscendancy> entonces esta granja de aldeanos necesita muchas zanahorias?
+[17:47:50] [Server thread/INFO]: <NoxiusSpeed> 8 stacks pero luegfo de eso genera como 30 aldeanos
+[17:48:21] [Server thread/INFO]: <InAscendancy> ah bueno, es que yo puedo hacer una que no es que genere mucho pero sirve
+[17:48:59] [Server thread/INFO]: <InAscendancy> causa
+[17:49:04] [Server thread/INFO]: <NoxiusSpeed> ?
+[17:49:10] [Server thread/INFO]: <InAscendancy> usted tiene carbon o antorchas?
+[17:49:21] [Server thread/INFO]: <NoxiusSpeed> no
+[17:49:36] [Server thread/INFO]: <NoxiusSpeed> tendremos que conseguir fortuna para ir a picar
+[17:49:37] [Server thread/INFO]: <InAscendancy> ok
+[17:49:42] [Server thread/INFO]: <InAscendancy> sip
+[17:49:47] [Server thread/INFO]: <NoxiusSpeed> duermo?
+[17:49:51] [Server thread/INFO]: <InAscendancy> como quieras
+[17:49:54] [Server thread/INFO]: <InAscendancy> si si duerme
+[17:50:48] [Server thread/INFO]: <NoxiusSpeed> ya hay 2 esclavos
+[17:50:53] [Server thread/WARN]: NoxiusSpeed moved too quickly! 10.182281755205878,0.8800391385729398,0.5306206022567039
+[17:51:04] [Server thread/INFO]: <InAscendancy> ok
+[17:51:40] [Server thread/INFO]: <NoxiusSpeed> causa ppia tiene mc comprado?
+[17:51:45] [Server thread/INFO]: <InAscendancy> no
+[17:52:04] [Server thread/INFO]: <NoxiusSpeed> y porque estaba jugando con usted hacer unos dias?
+[17:52:07] [Server thread/INFO]: <NoxiusSpeed> osea com
+[17:52:12] [Server thread/INFO]: <NoxiusSpeed> como*
+[17:52:16] [Server thread/INFO]: <InAscendancy> el no estaba jugando conmigo
+[17:52:25] [Server thread/INFO]: <InAscendancy> parece que fue el discord que se bugueo o algo
+[17:52:29] [Server thread/INFO]: <InAscendancy> hasta yo le pregunte
+[17:52:45] [Server thread/INFO]: <NoxiusSpeed> bueno, esta SUS eso
+[17:52:51] [Server thread/INFO]: <InAscendancy> aja
